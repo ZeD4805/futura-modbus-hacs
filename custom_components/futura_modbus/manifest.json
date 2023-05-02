@@ -1,0 +1,9 @@
+{
+    "domain": "futura_modbus",
+    "name": "Futura",
+    "version": "0.0.1",
+    "config_flow": true,
+    "requirements": ["pyModbusTCP==0.2.0"],
+    "codeowners": ["@zed4805"],
+    "iot_class": "local_polling"
+  }
